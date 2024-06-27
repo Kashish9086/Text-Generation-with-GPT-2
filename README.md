@@ -1,7 +1,6 @@
 # Text-Generation-with-GPT-2
 # gpt-2-simple
 
-!(docs/gen_demo.png)
 
 A simple Python package that wraps existing model fine-tuning and generation scripts for [OpenAI](https://openai.com)'s [GPT-2 text generation model](https://openai.com/blog/better-language-models/) (specifically the "small" 124M and "medium" 355M hyperparameter versions). Additionally, this package allows easier generation of text, generating to a file for easy curation, allowing for prefixes to force the text to start with a given phrase.
 
