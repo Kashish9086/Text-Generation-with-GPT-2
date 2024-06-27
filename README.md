@@ -133,16 +133,5 @@ The method GPT-2 uses to generate text is slightly different than those like oth
 - [/r/legaladvice](https://www.reddit.com/r/legaladviceofftopic/comments/bfqf22/i_trained_a_moreadvanced_ai_on_rlegaladvice/) — Title generation ([GitHub w/ dumps](https://github.com/minimaxir/legaladvice-gpt2))
 - [Hacker News](https://github.com/minimaxir/hacker-news-gpt-2) — Tens of thousands of generated Hacker News submission titles
 
-## Maintainer/Creator
 
-Max Woolf ([@minimaxir](https://minimaxir.com))
-
-_Max's open-source projects are supported by his [Patreon](https://www.patreon.com/minimaxir). If you found this project helpful, any monetary contributions to the Patreon are appreciated and will be put to good creative use._
-
-## License
-
-MIT
-
-## Disclaimer
-
-This repo has no affiliation or relationship with OpenAI.
+_
